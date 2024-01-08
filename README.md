@@ -68,3 +68,4 @@ print("-----------------------------------------------------------------")
 ![pqm 6](https://github.com/Rama-Lekshmi/Open-Jacson-Networks/assets/118541549/5be63e2d-ef7f-4c4a-aed6-9e38b4bf82a9)
 
 ## Result
+The average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
